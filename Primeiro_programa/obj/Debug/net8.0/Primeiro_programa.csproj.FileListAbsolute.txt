@@ -1,0 +1,14 @@
+D:\Jessy\Cursos Alura\CSHARP\Primeiro_programa\bin\Debug\net8.0\Primeiro_programa.exe
+D:\Jessy\Cursos Alura\CSHARP\Primeiro_programa\bin\Debug\net8.0\Primeiro_programa.deps.json
+D:\Jessy\Cursos Alura\CSHARP\Primeiro_programa\bin\Debug\net8.0\Primeiro_programa.runtimeconfig.json
+D:\Jessy\Cursos Alura\CSHARP\Primeiro_programa\bin\Debug\net8.0\Primeiro_programa.dll
+D:\Jessy\Cursos Alura\CSHARP\Primeiro_programa\bin\Debug\net8.0\Primeiro_programa.pdb
+D:\Jessy\Cursos Alura\CSHARP\Primeiro_programa\obj\Debug\net8.0\Primeiro_programa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jessy\Cursos Alura\CSHARP\Primeiro_programa\obj\Debug\net8.0\Primeiro_programa.AssemblyInfoInputs.cache
+D:\Jessy\Cursos Alura\CSHARP\Primeiro_programa\obj\Debug\net8.0\Primeiro_programa.AssemblyInfo.cs
+D:\Jessy\Cursos Alura\CSHARP\Primeiro_programa\obj\Debug\net8.0\Primeiro_programa.csproj.CoreCompileInputs.cache
+D:\Jessy\Cursos Alura\CSHARP\Primeiro_programa\obj\Debug\net8.0\Primeiro_programa.dll
+D:\Jessy\Cursos Alura\CSHARP\Primeiro_programa\obj\Debug\net8.0\refint\Primeiro_programa.dll
+D:\Jessy\Cursos Alura\CSHARP\Primeiro_programa\obj\Debug\net8.0\Primeiro_programa.pdb
+D:\Jessy\Cursos Alura\CSHARP\Primeiro_programa\obj\Debug\net8.0\Primeiro_programa.genruntimeconfig.cache
+D:\Jessy\Cursos Alura\CSHARP\Primeiro_programa\obj\Debug\net8.0\ref\Primeiro_programa.dll
